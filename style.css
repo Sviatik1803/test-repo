@@ -1,0 +1,123 @@
+body {
+    font-family: sans-serif;
+    background-color: lightblue;
+    text-align: center
+}
+
+header {
+    background-color:#66B8D9;
+    
+    border-radius: 5px;
+}
+
+.logo{
+    width: 120px;
+    height: 140px;
+    text-align: center;
+}
+
+nav{
+   margin: 20px 0px;                                  
+   text-align: center;
+   padding: 20px 0px;
+   background-color: #468BA6;
+   border-radius: 5px;
+
+}
+
+nav a {
+    text-decoration: none;
+    margin:  10px; 
+    margin-left: ;
+    color: blue;
+}
+
+
+
+
+.main_img{
+    width: 100%;
+    height: 30%;
+    border-radius: 5px;
+}
+
+h1 {
+    font-size: 42px;
+    color: white;
+    font-weight: normal;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+
+footer {
+    background-color: white;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+ }
+
+.footera {
+    background-color: rgb(76, 190, 76) ;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 10px;
+}
+.historia {
+    background-color: white;
+    color:black;
+     border-radius: 10px;
+     padding: 10px 14px;
+   
+   
+}
+.saits {
+color: #468BA6;
+text-decoration:none ;
+
+   
+}
+main p {
+    background-color: white;
+    padding: 13px;
+    border-radius: 5px;
+    box-shadow: 10px 5px 5px gray;
+    margin: 10px;
+   
+ }
+ h2 {
+    color: white;
+    padding: 13px;
+   
+ }
+ .veb {
+    margin: 0px;
+    padding: 0px;
+   
+ }
+ table { 
+    border: solid #EAEFF8 3px;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+th, td {
+padding: 8px;
+text-align: left;
+
+}
+th {
+background-color: #f2f2f2;
+}
+tr{
+
+    border: solid #EAEFF8 3px;
+   
+ }
